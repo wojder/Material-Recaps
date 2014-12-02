@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">Material Recaps</string>
+    <string name="url_blog">https://shielded-retreat-4872.herokuapp.com/atom.xml</string>
 </resources>
