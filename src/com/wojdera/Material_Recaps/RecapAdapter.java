@@ -21,8 +21,8 @@ public class RecapAdapter extends ArrayAdapter<Item>{
 
     private DateFormat dateFormat = SimpleDateFormat.getDateInstance(SimpleDateFormat.MEDIUM, Locale.getDefault());
 
-    public RecapAdapter(Context context, List<Item> object) {
-        super(context, 0, object);
+    public RecapAdapter(Context context, List<Item> objects) {
+        super(context, 0, objects);
     }
 
     @Override
@@ -31,7 +31,7 @@ public class RecapAdapter extends ArrayAdapter<Item>{
 
         if (convertView == null) {
             LayoutInflater inflater = LayoutInflater.from(getContext());
-            view = inflater.inflate(R.layout.posts_view, parent, false);
+            view = inflater.inflate(R.layout.recap_item_view, parent, false);
         } else {
             view = convertView;
         }
@@ -54,9 +54,9 @@ public class RecapAdapter extends ArrayAdapter<Item>{
 
     private static final class ViewHolder {
 
-        TextView title;
-        TextView description;
-        TextView date;
+        private final TextView title;
+        private final TextView description;
+        private final TextView date;
 
         private ViewHolder(TextView title, TextView description, TextView date) {
             this.title = title;
@@ -70,6 +70,7 @@ public class RecapAdapter extends ArrayAdapter<Item>{
         public void setDescription(CharSequence text){
             description.setText(text);
         }
+
         public void setDate(CharSequence text) {
             date.setText(text);
         }

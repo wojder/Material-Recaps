@@ -25,7 +25,7 @@ public class RecapDetailActivity extends Activity{
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
-        setContentView(R.layout.posts_view);
+        setContentView(R.layout.posts_detail_view);
 
         ActionBar actionBar = getActionBar();
         if (actionBar != null) {
@@ -34,16 +34,17 @@ public class RecapDetailActivity extends Activity{
 
         Item item = (Item) getIntent().getSerializableExtra(ARG_ITEM);
 
-        TextView title = (TextView) findViewById(R.id.feed_item_title);
-        TextView date = (TextView) findViewById(R.id.feed_item_date);
-        WebView blogView = (WebView) findViewById(R.id.post_detail_body);
+        TextView title = (TextView) findViewById(R.id.feed_detail_title);
+        TextView date = (TextView) findViewById(R.id.feed_detail_date);
+        WebView webView = (WebView) findViewById(R.id.feed_detail_body);
 
         title.setText(item.getTitle());
         date.setText(dateFormat.format(new Date(item.getDate())));
         String html = item.getContent();
 
         html = html.replaceAll(NEWLINE, BR);
-        blogView.loadData(html, BLOG_MIME, null);
+        webView.loadData(html, BLOG_MIME, null);
+
     }
 
     @Override

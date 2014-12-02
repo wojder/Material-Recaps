@@ -6,12 +6,12 @@
               android:layout_width="match_parent"
               android:layout_height="match_parent"
               android:orientation="vertical"
-              tools:context=".FeedDetailFragment">
+              tools:context=".RecapDetailActivity">
 
 <TextView
         android:id="@+id/feed_detail_title"
         style="?android:attr/textAppearanceLarge"
-        android:textColor="@android:color/primary_text_light"
+        android:textColor="@android:color/primary_text_dark_nodisable"
         android:layout_marginTop="@dimen/margin"
         android:layout_width="match_parent"
         android:layout_height="wrap_content" />
@@ -19,7 +19,7 @@
 <TextView
         android:id="@+id/feed_detail_date"
         style="?android:attr/textAppearanceSmall"
-        android:textColor="@android:color/primary_text_light"
+        android:textColor="@android:color/primary_text_dark"
 
         android:layout_marginBottom="@dimen/margin"
         android:gravity="end"
@@ -27,7 +27,7 @@
         android:layout_height="wrap_content" />
 
 <WebView
-        android:id="@+id/post_detail_body"
+        android:id="@+id/feed_detail_body"
         android:layout_height="0dp"
         android:layout_width="match_parent"
         android:layout_weight="1" />

@@ -41,7 +41,7 @@ public class Item implements Serializable {
         return updated;
     }
 
-    public void setDate(long updated) {
-        this.updated = updated;
+    public void setDate(long pubDate) {
+        this.updated = pubDate;
     }
 }
