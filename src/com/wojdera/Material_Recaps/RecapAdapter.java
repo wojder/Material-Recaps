@@ -31,7 +31,7 @@ public class RecapAdapter extends ArrayAdapter<Item>{
 
         if (convertView == null) {
             LayoutInflater inflater = LayoutInflater.from(getContext());
-            view = inflater.inflate(R.layout.recap_item_view, parent, false);
+            view = inflater.inflate(R.layout.recaps_view, parent, false);
         } else {
             view = convertView;
         }
