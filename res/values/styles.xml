@@ -1,4 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <style name="RecapsTheme" parent="android:Theme.Holo"/>
+    <style name="RecapsTheme.Base" parent="Theme.AppCompat.Light">
+        <!--<item name="colorPrimary">@color/colorPrimary</item>-->
+        <!--<item name="colorPrimaryDark">@color/colorPrimaryDark</item>-->
+        <!--<item name="windowBackground">@color/windowBackground</item>-->
+        <!--<item name="textColorPrimary">@color/textColorPrimary</item>-->
+    </style>
 </resources>

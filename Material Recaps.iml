@@ -16,5 +16,10 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" exported="" name="volley" level="project" />
+    <orderEntry type="library" exported="" name="android-support-v7-appcompat" level="project" />
+    <orderEntry type="module" module-name="android-support-v7-appcompat" exported="" />
+    <orderEntry type="module" module-name="cardview" exported="" />
+    <orderEntry type="library" exported="" name="android-support-v7-cardview" level="project" />
+    <orderEntry type="module" module-name="recyclerview" exported="" />
   </component>
 </module>

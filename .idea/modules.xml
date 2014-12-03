@@ -3,6 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Material Recaps.iml" filepath="$PROJECT_DIR$/Material Recaps.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../adt/sdk/extras/android/support/v7/appcompat/android-support-v7-appcompat.iml" filepath="$PROJECT_DIR$/../../adt/sdk/extras/android/support/v7/appcompat/android-support-v7-appcompat.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../adt/sdk/extras/android/support/v7/cardview/cardview.iml" filepath="$PROJECT_DIR$/../../adt/sdk/extras/android/support/v7/cardview/cardview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../../adt/sdk/extras/android/support/v7/recyclerview/recyclerview.iml" filepath="$PROJECT_DIR$/../../adt/sdk/extras/android/support/v7/recyclerview/recyclerview.iml" />
     </modules>
   </component>
 </project>
