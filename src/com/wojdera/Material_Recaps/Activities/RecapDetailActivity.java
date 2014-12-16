@@ -21,7 +21,8 @@ public class RecapDetailActivity extends Activity {
     public static final String ARG_ITEM = "ARG";
     private static final String NEWLINE = "\\n";
     private static final String BR = "<br />";
-    private static final String BLOG_MIME = "text/html";
+    private static final String BLOG_MIME = "text/html; charset=UTF-8";
+//    private static final String ENCODING = "charset=UTF-8";
     private DateFormat dateFormat = SimpleDateFormat.getDateInstance(SimpleDateFormat.MEDIUM, Locale.getDefault());
 
     @Override
@@ -39,6 +40,10 @@ public class RecapDetailActivity extends Activity {
         TextView title = (TextView) findViewById(R.id.feed_detail_title);
         TextView date = (TextView) findViewById(R.id.feed_detail_date);
         WebView webView = (WebView) findViewById(R.id.feed_detail_body);
+//        webView.getSettings().setPluginState(WebSettings.PluginState.ON_DEMAND);
+        webView.getSettings().setJavaScriptEnabled(true);
+//        webView.getSettings().setAllowFileAccess(true);
+//        webView.setWebChromeClient(new WebChromeClient());
 
         title.setText(item.getTitle());
         date.setText(dateFormat.format(new Date(item.getDate())));
@@ -46,7 +51,6 @@ public class RecapDetailActivity extends Activity {
 
         html = html.replaceAll(NEWLINE, BR);
         webView.loadData(html, BLOG_MIME, null);
-
     }
 
     @Override

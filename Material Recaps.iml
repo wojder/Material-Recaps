@@ -21,5 +21,7 @@
     <orderEntry type="module" module-name="cardview" exported="" />
     <orderEntry type="library" exported="" name="android-support-v7-cardview" level="project" />
     <orderEntry type="module" module-name="recyclerview" exported="" />
+    <orderEntry type="library" exported="" name="YouTubeAndroidPlayerApi" level="project" />
+    <orderEntry type="library" exported="" name="android-support-v7-recyclerview" level="project" />
   </component>
 </module>

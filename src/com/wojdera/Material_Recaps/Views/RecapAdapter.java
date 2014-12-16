@@ -1,7 +1,6 @@
 package com.wojdera.Material_Recaps.Views;
 
 import android.content.Context;
-import android.text.Html;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
@@ -48,7 +47,7 @@ public class RecapAdapter extends ArrayAdapter<Item>{
         }
         Item item = getItem(position);
         viewHolder.setTitle(item.getTitle());
-        viewHolder.setDescription(Html.fromHtml(item.getDescription()));
+//        viewHolder.setDescription(Html.fromHtml(item.getDescription()));
         viewHolder.setDate(dateFormat.format(new Date(item.getDate())));
 
         return view;

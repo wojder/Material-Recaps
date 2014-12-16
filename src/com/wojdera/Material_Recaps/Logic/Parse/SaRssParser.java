@@ -22,7 +22,7 @@ public final class SaRssParser {
     private static final String AUTHOR = "author";
     private static final String ITEM = "entry";
     private static final String TITLE = "title";
-    private static final String DESCRIPTION = "id";
+//    private static final String DESCRIPTION = "id";
     private static final String CONTENT = "content";
     private static final String UPDATED = "updated";
 
@@ -30,7 +30,7 @@ public final class SaRssParser {
     private Feed feed = Feed.NONE;
     private Item currentItem = Item.NONE;
     private ParseState state = ParseState.NONE;
-    private final DateFormat dateFormat = new SimpleDateFormat("EEE, dd MMM yyyy HH:mm:ss ZZZZZ", Locale.getDefault());
+    private final DateFormat dateFormat = new SimpleDateFormat("yyyy-MM-dd", Locale.getDefault());
 
     private SaRssParser(XmlPullParser parser) {
         this.parser = parser;
@@ -86,8 +86,8 @@ public final class SaRssParser {
         case ITEM_CONTENT:
             currentItem.setContent(text);
             break;
-            case DESCRIPTION:
-                currentItem.setDescription(text);
+//            case DESCRIPTION:
+//                currentItem.setDescription(text);
         case ITEM_UPDATED:
             Date date;
             try {
@@ -126,10 +126,10 @@ public final class SaRssParser {
             state = ParseState.ITEM_CONTENT;
         } else if (UPDATED.equals(name)) {
             state = ParseState.ITEM_UPDATED;
-        } else if (DESCRIPTION.equals(name)) {
-            if (currentItem != Item.NONE) {
-                state = ParseState.DESCRIPTION;
-            }
+//        } else if (DESCRIPTION.equals(name)) {
+//            if (currentItem != Item.NONE) {
+//                state = ParseState.DESCRIPTION;
+//            }
         }
 
     }
@@ -137,7 +137,7 @@ public final class SaRssParser {
     private static enum ParseState {
         NONE,
         ITEM_TITLE,
-        DESCRIPTION,
+//        DESCRIPTION,
         ITEM_CONTENT,
         ITEM_UPDATED
     }
