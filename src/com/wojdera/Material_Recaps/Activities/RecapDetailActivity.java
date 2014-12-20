@@ -41,7 +41,7 @@ public class RecapDetailActivity extends Activity {
         TextView date = (TextView) findViewById(R.id.feed_detail_date);
         WebView webView = (WebView) findViewById(R.id.feed_detail_body);
 //        webView.getSettings().setPluginState(WebSettings.PluginState.ON_DEMAND);
-        webView.getSettings().setJavaScriptEnabled(true);
+//        webView.getSettings().setJavaScriptEnabled(true);
 //        webView.getSettings().setAllowFileAccess(true);
 //        webView.setWebChromeClient(new WebChromeClient());
 
