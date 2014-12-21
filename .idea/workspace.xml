@@ -18,65 +18,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b330ceea-86fa-4887-a82e-779814cd1e6f" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/cardview/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/cardview/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/cardview/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/cardview/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/cardview/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/cardview/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/cardview/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/recyclerview/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/recyclerview/R$anim.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/recyclerview/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/recyclerview/R$bool.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/recyclerview/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/recyclerview/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/recyclerview/R$drawable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/recyclerview/R$id.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/recyclerview/R$integer.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/recyclerview/R$layout.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/recyclerview/R$string.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/recyclerview/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/recyclerview/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/recyclerview/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cardview/android/support/v7/cardview/BuildConfig.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cardview/android/support/v7/cardview/R$attr.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cardview/android/support/v7/cardview/R$color.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cardview/android/support/v7/cardview/R$dimen.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cardview/android/support/v7/cardview/R$style.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cardview/android/support/v7/cardview/R$styleable.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/cardview/android/support/v7/cardview/R.class" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/out/production/recyclerview/android/support/v7/recyclerview/BuildConfig.class" afterPath="" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Activities/DialogCreator.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/Material Recaps.apk" afterPath="$PROJECT_DIR$/out/production/Material Recaps/Material Recaps.apk" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/Material Recaps.unaligned.apk" afterPath="$PROJECT_DIR$/out/production/Material Recaps/Material Recaps.unaligned.apk" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/appcompat/R$attr.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/appcompat/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R$attr.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R$attr.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/appcompat/R$bool.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/appcompat/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R$bool.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R$bool.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/appcompat/R$color.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/appcompat/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R$color.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R$color.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/appcompat/R$dimen.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/appcompat/R$dimen.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R$dimen.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R$dimen.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R$drawable.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R$drawable.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/appcompat/R$id.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/appcompat/R$id.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R$id.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R$id.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/appcompat/R$integer.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/appcompat/R$integer.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R$integer.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R$integer.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R$layout.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R$layout.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/appcompat/R$string.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/appcompat/R$string.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R$string.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R$string.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/appcompat/R$style.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/appcompat/R$style.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R$style.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R$style.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/appcompat/R$styleable.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/android/support/v7/appcompat/R$styleable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R$styleable.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R$styleable.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/R.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/Views/RecapAdapter.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/Views/RecapAdapter.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/Activities/RecapDetailActivity.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/Activities/RecapDetailActivity.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/Logic/RecapFragment.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/Logic/RecapFragment.class" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/Material Recaps.iml" afterPath="$PROJECT_DIR$/Material Recaps.iml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/Activities/RecapsViewActivity.class" afterPath="$PROJECT_DIR$/out/production/Material Recaps/com/wojdera/Material_Recaps/Activities/RecapsViewActivity.class" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Activities/RecapDetailActivity.java" afterPath="$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Activities/RecapDetailActivity.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/layout/posts_detail_view.xml" afterPath="$PROJECT_DIR$/res/layout/posts_detail_view.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/project.properties" afterPath="$PROJECT_DIR$/project.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Activities/RecapsViewActivity.java" afterPath="$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Activities/RecapsViewActivity.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/res/values/strings.xml" afterPath="$PROJECT_DIR$/res/values/strings.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="Material Recaps.iws" />
@@ -103,10 +60,10 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="posts_detail_view.xml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="posts_detail_view.xml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/res/layout/posts_detail_view.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.47368422" vertical-offset="0" max-vertical-offset="1134">
+            <state vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="1134">
               <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
               <folding />
             </state>
@@ -116,13 +73,24 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="action.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/res/menu/action.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="216">
+              <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="RecapsViewActivity.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Activities/RecapsViewActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="108" max-vertical-offset="936">
-              <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
+            <state vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="1242">
+              <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
               <folding>
-                <element signature="imports" expanded="false" />
+                <element signature="e#2035#2066#0" expanded="true" />
+                <marker date="1419165409292" expanded="true" signature="1972:2068" placeholder="..." />
               </folding>
             </state>
           </provider>
@@ -131,13 +99,9 @@
       <file leaf-file-name="RecapFragment.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Logic/RecapFragment.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="1091" max-vertical-offset="1566">
+            <state vertical-scroll-proportion="0.0" vertical-offset="955" max-vertical-offset="1566">
               <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-              <folding>
-                <element signature="imports" expanded="false" />
-                <element signature="e#1523#1524#0" expanded="false" />
-                <element signature="e#1555#1556#0" expanded="false" />
-              </folding>
+              <folding />
             </state>
           </provider>
         </entry>
@@ -162,33 +126,6 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Item.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Models/Item.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="306" max-vertical-offset="666">
-              <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-              <folding>
-                <element signature="e#343#344#0" expanded="false" />
-                <element signature="e#371#372#0" expanded="false" />
-                <element signature="e#413#414#0" expanded="false" />
-                <element signature="e#447#448#0" expanded="false" />
-                <element signature="e#485#486#0" expanded="false" />
-                <element signature="e#510#511#0" expanded="false" />
-                <element signature="e#564#565#0" expanded="false" />
-                <element signature="e#601#602#0" expanded="false" />
-                <element signature="e#635#636#0" expanded="false" />
-                <element signature="e#665#666#0" expanded="false" />
-                <element signature="e#711#712#0" expanded="false" />
-                <element signature="e#749#750#0" expanded="false" />
-                <element signature="e#778#779#0" expanded="false" />
-                <element signature="e#808#809#0" expanded="false" />
-                <element signature="e#849#850#0" expanded="false" />
-                <element signature="e#887#888#0" expanded="false" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="RecapControllerSingleton.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Logic/RecapControllerSingleton.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -205,32 +142,31 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FeedConsumer.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Models/FeedConsumer.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="72" max-vertical-offset="270">
-              <caret line="4" column="3" selection-start-line="4" selection-start-column="3" selection-end-line="4" selection-end-column="3" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="RecapDetailActivity.java" pinned="false" current-in-tab="false">
+      <file leaf-file-name="RecapDetailActivity.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Activities/RecapDetailActivity.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="157" max-vertical-offset="1062">
-              <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
-              <folding />
+            <state vertical-scroll-proportion="0.6421471" vertical-offset="721" max-vertical-offset="1224">
+              <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+              <folding>
+                <element signature="e#2673#2704#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="NonNull.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Views/NonNull.java">
+      <file leaf-file-name="DialogCreator.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Activities/DialogCreator.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="234">
-              <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
-              <folding />
+            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
+              <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+              <folding>
+                <element signature="imports" expanded="true" />
+                <element signature="e#525#545#0" expanded="true" />
+                <element signature="e#582#599#0" expanded="true" />
+                <element signature="e#825#842#0" expanded="true" />
+                <element signature="e#844#1065#0" expanded="true" />
+                <element signature="e#1064#1065#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -281,7 +217,6 @@
         <option value="$PROJECT_DIR$/res/values/colours.xml" />
         <option value="$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Models/Feed.java" />
         <option value="$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Logic/RecapFragment.java" />
-        <option value="$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Activities/RecapsViewActivity.java" />
         <option value="$PROJECT_DIR$/res/layout/recaps_view.xml" />
         <option value="$USER_HOME$/.IntelliJIdea14/system/compile-server/material_recaps_8ff0719/targets/java-production/cardview/android/generated_sources/aapt/android/support/v7/cardview/R.java" />
         <option value="$PROJECT_DIR$/AndroidManifest.xml" />
@@ -290,8 +225,11 @@
         <option value="$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Logic/Parse/SaRssParser.java" />
         <option value="$PROJECT_DIR$/res/layout/recaps_list_view.xml" />
         <option value="$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Views/RecapAdapter.java" />
-        <option value="$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Activities/RecapDetailActivity.java" />
         <option value="$PROJECT_DIR$/res/layout/posts_detail_view.xml" />
+        <option value="$PROJECT_DIR$/res/menu/action.xml" />
+        <option value="$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Activities/DialogCreator.java" />
+        <option value="$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Activities/RecapsViewActivity.java" />
+        <option value="$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Activities/RecapDetailActivity.java" />
       </list>
     </option>
   </component>
@@ -337,6 +275,96 @@
               <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
             </PATH_ELEMENT>
           </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Material Recaps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Material Recaps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Material Recaps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Material Recaps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Material_Recaps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Material Recaps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Material Recaps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Material_Recaps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Activities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="RecapsViewActivity" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ClassTreeNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Material Recaps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Material Recaps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="src" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Material_Recaps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Activities" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Material Recaps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="Material Recaps" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="res" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
         </subPane>
       </pane>
       <pane id="PackagesPane" />
@@ -368,6 +396,7 @@
   </component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.wojdera.Material_Recaps.Activities" />
       <recent name="com.wojdera.Material_Recaps" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
@@ -679,15 +708,17 @@
       <workItem from="1418741065845" duration="5646000" />
       <workItem from="1418931795744" duration="730000" />
       <workItem from="1419076916538" duration="650000" />
+      <workItem from="1419088552238" duration="4197000" />
+      <workItem from="1419163324806" duration="1411000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="95029000" />
+    <option name="totallyTimeSpent" value="100637000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="65" y="24" width="1535" height="876" extended-state="6" />
-    <editor active="false" />
+    <editor active="true" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="IDEtalk" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
@@ -704,14 +735,13 @@
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3997344" sideWeight="0.5" order="11" side_tool="false" content_ui="tabs" />
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="9" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="14" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32934928" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934928" sideWeight="0.5" order="15" side_tool="false" content_ui="tabs" />
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32934928" sideWeight="0.49966422" order="10" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.34130147" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
-      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.29216468" sideWeight="0.49966422" order="4" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1773002" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
+      <window_info id="Android" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.29216468" sideWeight="0.49966422" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.1773002" sideWeight="0.5" order="4" side_tool="false" content_ui="combo" />
       <window_info id="Memory Monitor" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="5" side_tool="true" content_ui="tabs" />
       <window_info id="IDEtalk Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
@@ -719,6 +749,7 @@
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="8" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="13" side_tool="false" content_ui="tabs" />
+      <window_info id="Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="8" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -749,14 +780,6 @@
     <option name="FILTER_TARGETS" value="false" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/res/values/styles.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="162">
-          <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/AndroidManifest.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="432">
@@ -781,7 +804,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#2035#2066#0" expanded="true" />
+            <marker date="1419165409292" expanded="true" signature="1972:2068" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -790,11 +814,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="270">
           <caret line="7" column="76" selection-start-line="7" selection-start-column="76" selection-end-line="7" selection-end-column="76" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1523#1524#0" expanded="false" />
-            <element signature="e#1555#1556#0" expanded="false" />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -809,7 +829,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="162">
           <caret line="2" column="4" selection-start-line="2" selection-start-column="4" selection-end-line="2" selection-end-column="4" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -837,7 +856,8 @@
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="360">
           <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding>
-            <element signature="imports" expanded="false" />
+            <element signature="e#2035#2066#0" expanded="true" />
+            <marker date="1419165409292" expanded="true" signature="1972:2068" placeholder="..." />
           </folding>
         </state>
       </provider>
@@ -951,7 +971,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="-3.6" vertical-offset="0" max-vertical-offset="198">
           <caret line="5" column="12" selection-start-line="5" selection-start-column="12" selection-end-line="5" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -980,7 +999,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="126" max-vertical-offset="252">
           <caret line="7" column="12" selection-start-line="7" selection-start-column="12" selection-end-line="7" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -995,7 +1013,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="144" max-vertical-offset="252">
           <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1003,7 +1020,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="216">
           <caret line="2" column="38" selection-start-line="2" selection-start-column="32" selection-end-line="2" selection-end-column="38" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1033,7 +1049,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="90" max-vertical-offset="198">
           <caret line="5" column="0" selection-start-line="5" selection-start-column="0" selection-end-line="5" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
@@ -1051,9 +1066,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="353" max-vertical-offset="828">
           <caret line="32" column="0" selection-start-line="32" selection-start-column="0" selection-end-line="32" selection-end-column="0" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1061,11 +1073,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="2466">
           <caret line="88" column="0" selection-start-line="88" selection-start-column="2" selection-end-line="89" selection-end-column="51" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1203#1204#0" expanded="false" />
-            <element signature="e#1239#1240#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1073,24 +1080,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="702">
           <caret line="20" column="21" selection-start-line="20" selection-start-column="21" selection-end-line="20" selection-end-column="21" />
-          <folding>
-            <element signature="e#343#344#0" expanded="false" />
-            <element signature="e#371#372#0" expanded="false" />
-            <element signature="e#413#414#0" expanded="false" />
-            <element signature="e#447#448#0" expanded="false" />
-            <element signature="e#485#486#0" expanded="false" />
-            <element signature="e#510#511#0" expanded="false" />
-            <element signature="e#564#565#0" expanded="false" />
-            <element signature="e#601#602#0" expanded="false" />
-            <element signature="e#635#636#0" expanded="false" />
-            <element signature="e#665#666#0" expanded="false" />
-            <element signature="e#711#712#0" expanded="false" />
-            <element signature="e#749#750#0" expanded="false" />
-            <element signature="e#778#779#0" expanded="false" />
-            <element signature="e#808#809#0" expanded="false" />
-            <element signature="e#849#850#0" expanded="false" />
-            <element signature="e#887#888#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1106,26 +1095,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="396">
           <caret line="10" column="29" selection-start-line="10" selection-start-column="29" selection-end-line="10" selection-end-column="29" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#311#317#0" expanded="false" />
-            <element signature="e#357#358#0" expanded="false" />
-            <element signature="e#388#389#0" expanded="false" />
-            <element signature="e#424#425#0" expanded="false" />
-            <element signature="e#452#453#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Logic/RecapFragment.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="1566">
-          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
-          <folding>
-            <element signature="imports" expanded="false" />
-            <element signature="e#1523#1524#0" expanded="false" />
-            <element signature="e#1555#1556#0" expanded="false" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1143,16 +1112,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Activities/RecapsViewActivity.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="936">
-          <caret line="16" column="64" selection-start-line="16" selection-start-column="64" selection-end-line="16" selection-end-column="64" />
-          <folding>
-            <element signature="imports" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/res/layout/recaps_list_view.xml">
       <provider selected="true" editor-type-id="text-editor">
         <state vertical-scroll-proportion="0.0" vertical-offset="36" max-vertical-offset="720">
@@ -1164,10 +1123,21 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Views/NonNull.java">
+    <entry file="file://$PROJECT_DIR$/res/layout/posts_detail_view.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="234">
-          <caret line="5" column="18" selection-start-line="5" selection-start-column="18" selection-end-line="5" selection-end-column="18" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="198" max-vertical-offset="1134">
+          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+      <provider editor-type-id="android-designer">
+        <state />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/res/menu/action.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="54" max-vertical-offset="216">
+          <caret line="3" column="48" selection-start-line="3" selection-start-column="48" selection-end-line="3" selection-end-column="48" />
           <folding />
         </state>
       </provider>
@@ -1190,23 +1160,48 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Activities/RecapDetailActivity.java">
+    <entry file="file://$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Activities/DialogCreator.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="157" max-vertical-offset="1062">
-          <caret line="30" column="0" selection-start-line="30" selection-start-column="0" selection-end-line="30" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="720">
+          <caret line="31" column="32" selection-start-line="31" selection-start-column="32" selection-end-line="31" selection-end-column="32" />
+          <folding>
+            <element signature="imports" expanded="true" />
+            <element signature="e#525#545#0" expanded="true" />
+            <element signature="e#582#599#0" expanded="true" />
+            <element signature="e#825#842#0" expanded="true" />
+            <element signature="e#844#1065#0" expanded="true" />
+            <element signature="e#1064#1065#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Activities/RecapsViewActivity.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="432" max-vertical-offset="1242">
+          <caret line="51" column="0" selection-start-line="51" selection-start-column="0" selection-end-line="52" selection-end-column="0" />
+          <folding>
+            <element signature="e#2035#2066#0" expanded="true" />
+            <marker date="1419165409292" expanded="true" signature="1972:2068" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Logic/RecapFragment.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0" vertical-offset="378" max-vertical-offset="1566">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/res/layout/posts_detail_view.xml">
+    <entry file="file://$PROJECT_DIR$/src/com/wojdera/Material_Recaps/Activities/RecapDetailActivity.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.47368422" vertical-offset="0" max-vertical-offset="1134">
-          <caret line="11" column="38" selection-start-line="11" selection-start-column="38" selection-end-line="11" selection-end-column="38" />
-          <folding />
+        <state vertical-scroll-proportion="0.6421471" vertical-offset="721" max-vertical-offset="1224">
+          <caret line="72" column="0" selection-start-line="72" selection-start-column="0" selection-end-line="72" selection-end-column="0" />
+          <folding>
+            <element signature="e#2673#2704#0" expanded="true" />
+          </folding>
         </state>
-      </provider>
-      <provider editor-type-id="android-designer">
-        <state />
       </provider>
     </entry>
   </component>

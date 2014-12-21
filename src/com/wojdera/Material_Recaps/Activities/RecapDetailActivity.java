@@ -3,6 +3,8 @@ package com.wojdera.Material_Recaps.Activities;
 import android.app.ActionBar;
 import android.app.Activity;
 import android.os.Bundle;
+import android.view.Menu;
+import android.view.MenuInflater;
 import android.view.MenuItem;
 import android.webkit.WebView;
 import android.widget.TextView;
@@ -52,6 +54,13 @@ public class RecapDetailActivity extends Activity {
         html = html.replaceAll(NEWLINE, BR);
         webView.loadData(html, BLOG_MIME, null);
     }
+    @Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu items for use in the action bar
+        MenuInflater inflater = getMenuInflater();
+        inflater.inflate(R.menu.action, menu);
+        return super.onCreateOptionsMenu(menu);
+    }
 
     @Override
     public boolean onOptionsItemSelected(MenuItem item) {
@@ -59,6 +68,8 @@ public class RecapDetailActivity extends Activity {
         if (id == android.R.id.home) {
             finish();
             return true;
+        } else if (id == R.id.action_settings) {
+            new DialogCreator().show(getFragmentManager(), getString(R.string.dialog_text));
         }
         return super.onOptionsItemSelected(item);
     }

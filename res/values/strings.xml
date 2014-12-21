@@ -2,4 +2,7 @@
 <resources>
     <string name="app_name">Material Recaps</string>
     <string name="url_blog">https://shielded-retreat-4872.herokuapp.com/atom.xml</string>
+    <string name="dialog_text">Dialog text test</string>
+    <string name="positive">positive test</string>
+    <string name="negative">negative test</string>
 </resources>
