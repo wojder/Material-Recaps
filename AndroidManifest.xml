@@ -21,8 +21,7 @@
         <activity android:name=".Activities.RecapDetailActivity"
                   android:label="@string/app_name"
                   android:parentActivityName=".Activities.RecapsViewActivity">
-            <meta-data android:name="android.support.PARENT_ACTIVITY"
-                       android:value=".RecapsViewActivity"/>
         </activity>
+        <activity android:name=".Activities.SlamDunkActivity"/>
     </application>
 </manifest>
